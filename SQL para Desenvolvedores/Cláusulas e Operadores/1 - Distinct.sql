@@ -1,0 +1,1 @@
+SELECT DISTINCT cidade, estado FROM alunos

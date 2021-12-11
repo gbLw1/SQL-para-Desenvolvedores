@@ -1,0 +1,1 @@
+SELECT * FROM alunos WHERE id BETWEEN 2 AND 4
